@@ -559,7 +559,7 @@ justify-content: flex-end;
                                                   font-weight: 100;
                                                   margin-top: 3rem;
                                                 }
-                        } @media(max-width:400px){
+                        } @media(max-width:600px){
                           .mySwiper .imgone{
                             left:0%;
                             width: 40%;
