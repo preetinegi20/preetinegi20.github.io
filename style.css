@@ -559,10 +559,9 @@ justify-content: flex-end;
                                                   font-weight: 100;
                                                   margin-top: 3rem;
                                                 }
-                        } @media(max-width:600px){
+                        } @media(max-width:500px){
                           .mySwiper .imgone{
                             left:0%;
-                            width: 40%;
                             top:0%;
                               }
                       
@@ -573,10 +572,12 @@ justify-content: flex-end;
                           }
                         .mySwiper .imgthree{
                          right: 0%;
-                          width: 15%;
+                          width: 25%;
                           top:-10%;
                           }
-                          
+                          .card{
+                            width: 100%;
+                          }
                           .mySwiper .imgfour{
                                  left: 50%;
                                   width: 25%;
